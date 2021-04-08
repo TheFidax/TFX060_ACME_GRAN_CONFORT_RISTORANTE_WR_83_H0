@@ -15,23 +15,23 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 - Carrozza in condizioni luminose *Diurne* lato Cucina
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/diurna_bianchi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/diurna_bianchi.jpg" width="1280">
 
 - Carrozza in condizione luminose *Diurne* lato Corridoio
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/diurna_blu.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/diurna_blu.jpg" width="1280">
 
 - Carrozza in condizioni luminose *Notturne* lato Cucina
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/notturna_bianchi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_bianchi.jpg" width="1280">
 
 - Carrozza in condizione luminose *Notturne* lato Corridoio
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/notturna_blu.jpg" width="1280"></br>
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
 - Scheda nella sua posizione appoggiata sopra gli interni:
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/scheda_posizionata.jpg" width="1280"></br>
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/scheda_posizionata.jpg" width="1280"></br>
 
 ------------
 
@@ -108,7 +108,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 ------------
 
 ### Ponte di Diodi Schottky
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/ss310.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/ss310.jpg" width="1280">
 
 Il circuito di alimentazione e' realizzato meadiante 4 diodi Schottky in configurazione [Ponte di Graetz](https://it.wikipedia.org/wiki/Raddrizzatore#Ponte_di_Graetz).</br>
 Tale configurazione permette di *raddrizzare* la tensione captata dalle prese di corrente in Conrente Continua a prescindere del sistema di alimentazione:
