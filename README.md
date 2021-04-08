@@ -173,7 +173,7 @@ Il microcontrollore **non può** essere dotato di *bootloader*: non e' presente 
 ------------
 
 ### Lettura Segnale Digitale
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/dcc.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/dcc&ack.jpg" width="1280">
 
 Il segnale digitale e' letto mediante [Optoisolatore TLP2168](https://toshiba.semicon-storage.com/eu/semiconductor/product/optoelectronics/detail.TLP2168.html) che fornisce l'[isolamento galvanico](https://it.wikipedia.org/wiki/Isolamento_elettrico) del microcontrollore dalla tensione delle rotaie.</br> 
 L'optoisolatore e' protetto dall'inversione di corrente mediante Diodo e da un eccessiva corrente mediante resistore.</br>
@@ -183,19 +183,19 @@ Questo sistema **e' compatibile con il DCC e con il Motorola**.
 ------------
 
 ### Sistema ACK
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/ack.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/dcc&ack.jpg" width="1280">
 
 La scheda e' dotata di sistema per fornire l'ACK nella **programmazione DCC mediante binario di programmazione**.
 
 ------------
 
 ### Porta di Programmazione ISP
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/isp.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/isp.jpg" width="1280">
 
 Per programmare il microcontrollore e' presente *una porta di programmazione ISP* con connettore JST SH6 per prevenire connessioni invertite.</br>
 Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante il seguente schema:</br>
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/isp_i2c.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/isp_i2c.jpg" width="1280">
 
 ------------
 
