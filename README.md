@@ -7,7 +7,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - Vestiboli
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWare: 1.02**
+**Ultima Revisione HardWare: 2.01**
 
 **Ultima Revisione SoftWare: 008**
 
