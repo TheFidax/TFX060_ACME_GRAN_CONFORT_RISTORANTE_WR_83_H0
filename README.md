@@ -49,10 +49,10 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Lettura Segnale Digitale](#lettura-segnale-digitale)
   - [Sistema ACK](#sistema-ack)
   - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
-  - Luci Cucina
-Luci Corridoio
-Luci Vestiboli
-Luci Tavoli
+  - [Luci Cucina](#Luci-Cucina)
+  - [Luci Corridoio](#Luci-Corridoio)
+  - [Luci Vestiboli](#Luci-Vestiboli)
+  - [Luci Tavoli](#Luci-Tavoli)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
