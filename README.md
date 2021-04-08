@@ -49,7 +49,10 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Lettura Segnale Digitale](#lettura-segnale-digitale)
   - [Sistema ACK](#sistema-ack)
   - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
-  - [Compartimenti con Luci Diurne e Notturne *indipendenti*](#illuminazione-compartimenti-con-luci-diurne-e-notturne)
+  - Luci Cucina
+Luci Corridoio
+Luci Vestiboli
+Luci Tavoli
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
@@ -218,6 +221,13 @@ Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
 <img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_vestibolo2.jpg" width="1280">
 
 I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led.
+
+------------
+
+### Luci Tavoli
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_tavoli.jpg" width="1280">
+
+Le luci sui tavoli sono raggruppate a blocchi di 3 led: ogni gruppo e' indipendente.
 
 ------------
 
