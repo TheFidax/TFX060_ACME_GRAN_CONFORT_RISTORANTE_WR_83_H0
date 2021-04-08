@@ -1,4 +1,4 @@
-# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) Gran Confort Ristorante WR83 in Scala H0
+# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) Gran Confort [Ristorante WR83](https://scalaenne.wordpress.com/2011/04/16/gran-comfort-e-grand-confort/) in Scala H0
 Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Gran Confort *Ristorante WR83*, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio di fianco alla Cucina
