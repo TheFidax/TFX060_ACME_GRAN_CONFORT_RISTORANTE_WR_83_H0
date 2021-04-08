@@ -23,11 +23,11 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 - Carrozza in condizioni luminose *Notturne* lato Cucina
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_bianchi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_cucina.jpg" width="1280">
 
 - Carrozza in condizione luminose *Notturne* lato Corridoio
 
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_blu.jpg" width="1280"></br>
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/notturna_corridoio.jpg" width="1280"></br>
 
 - Scheda nella sua posizione appoggiata sopra gli interni:
 
