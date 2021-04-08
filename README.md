@@ -232,7 +232,7 @@ Le luci sui tavoli sono raggruppate a blocchi di 3 led: ogni gruppo e' indipende
 ------------
 
 ### Luci di Coda Rosse
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/luci_coda.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_coda.jpg" width="1280">
 
 Su entrambi i lati sono presenti le connessioni per delle **Luci di Coda Rosse**.</br>
 Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e un *polo negativo* pilotato dal micro tramite transistor.
@@ -240,7 +240,7 @@ Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e 
 ------------
 
 ### Interfaccia PluX
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/plux.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/plux.jpg" width="1280">
 
 E' presente un **connettore PluX** per poter utilizzare decoder commerciali.</br>
 Durante il funzionamento con Decoder, la scheda di illuminazione diventa un [Modulo SUSI](https://github.com/TheFidax/Rcn600), questa configurazione diventa necessario se e' richiesto un protocollo *proprietario* non decodifcicabile dalla scheda.</br>
