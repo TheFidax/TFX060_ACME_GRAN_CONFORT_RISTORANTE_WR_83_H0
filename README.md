@@ -199,17 +199,30 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 
 ------------
 
-### Illuminazione Compartimenti con Luci Diurne e Notturne
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/luci_compartimenti.jpg" width="1280">
+### Luci Cucina
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_cucina.jpg" width="1280">
 
-Questa scheda fornisce, per ogni compartimento, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
-Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
+La cucina e' illuminata mediante *3 led* in parallelo.
+
+------------
+
+### Luci Corridoio
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_corridoio.jpg" width="1280">
+
+Il corridoio parallelo alla cucina e' illuminato in maniera indipendente.
+
+------------
+
+### Luci Vestiboli
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_vestibolo1.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/luci_vestibolo2.jpg" width="1280">
+
+I vestiboli, su entrambi gli intercomunicanti, sono illuminati mediante led.
 
 ------------
 
 ### Luci di Coda Rosse
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/luci_coda_pad.jpg" width="1280">
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/luci_coda_npn.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/luci_coda.jpg" width="1280">
 
 Su entrambi i lati sono presenti le connessioni per delle **Luci di Coda Rosse**.</br>
 Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e un *polo negativo* pilotato dal micro tramite transistor.
@@ -232,9 +245,17 @@ Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi a
 ------------
 
 ### Porta SUSI
-<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/tree/main/Images/susi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/susi.jpg" width="1280">
 
 Per garantire la massima personalizzazione, e' presente anche **una porta SUSI** per eventuali moduli SUSI esterni.
+
+------------
+
+### Altoparlante
+<img src="https://github.com/TheFidax/TFX060_ACME_GRAN_CONFORT_RISTORANTE_WR_83_H0/blob/main/Images/altoparlante.jpg" width="1280">
+
+La scheda ha lo spazio, e connessioni, per un altoparlante da 20 millimetri.</br>
+*Consigliato 8 Ohm e 2 Watt*.
 
 ------------
 
