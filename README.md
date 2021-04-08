@@ -56,6 +56,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
+  - [Altoparlante](#Altoparlante)
 * [Assemblaggio](#Assemblaggio)
 * [Contattami](#Contattami)
 
@@ -102,10 +103,11 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Optoisolator to read Digital signal](#lettura-segnale-digitale)
 - [ACK System](#sistema-ack)
 - [JST SH6 connector](#porta-di-programmazione-isp) to program AtMega with ISP system and to provide I2C Bus from external target
-- All [compartments](#illuminazione-compartimenti-con-luci-diurne-e-notturne) illuminated independently (with Day and Night lights)
+- All Sections illuminated independently ([Corridor](#Luci-Corridoio), [Vestibles](#Luci-Vestiboli), [Kitchen](#Luci-Cucina) and [Tables](#Luci-Tavoli))
 - Pads for [tail red lights](#luci-di-coda-rosse)
 - [PluX Interface](#interfaccia-plux) (with Sound and SUSI BUS)
 - [SUSI Port](#porta-susi) for External Module
+- Space for 20mm round [speaker](#Altoparlante)
 - MINIMUM CLEARANCE: 6mil
 
 ------------
