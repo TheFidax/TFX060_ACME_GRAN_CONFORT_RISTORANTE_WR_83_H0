@@ -7,6 +7,8 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - Vestiboli
 - Predisposizione per le *Luci di Coda Rosse* 
 
+**Codice Identificativo Progetto: TFX060**
+
 **Ultima Revisione HardWare: 2.03**
 
 **Ultima Revisione SoftWare: 009**
